@@ -3,4 +3,4 @@ If the package named in the string argument is installed, it just returns the pa
 
 If the package is not installed, it tries to install and return the package object.
 
-If the install failed, the _None_ is returned.
+If the install failed, then _None_ is returned.
